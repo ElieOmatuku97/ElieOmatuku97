@@ -12,8 +12,8 @@ Welcome to my Github page, where I work on pets projects, try new technologies a
 
 Here are some of the projects that I’m currently working on
 
-* [Cineast Android](https://github.com/ElieO97/cineast_android)
-* [Starwars flutter](https://github.com/ElieO97/starwars_flutter)
+* [Cineast Android](https://github.com/ElieOmatuku97/cineast_android)
+* [Starwars flutter](https://github.com/ElieOmatuku97/starwars_flutter)
   
 Here are some of the blogs written by me:
 
@@ -35,8 +35,8 @@ Bienvenu sur ma page Github, où je travaille sur des projets personnels, experi
 
 Voici des projets que je maintiens activement:
 
-* [Cineast Android](https://github.com/ElieO97/cineast_android)
-* [Starwars flutter](https://github.com/ElieO97/starwars_flutter)
+* [Cineast Android](https://github.com/ElieOmatuku97/cineast_android)
+* [Starwars flutter](https://github.com/ElieOmatuku97/starwars_flutter)
   
 Voici des blogs écrits par moi:
 
