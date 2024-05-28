@@ -21,7 +21,7 @@ Composite pattern in Kotlin: Android example
 Using Jetpack Compose in an existing Android application
 When I’m not in front of my screen, coding, I am watching Football ⚽️. I’m a Real Madrid supporter and Crisitano Ronaldo is the 🐐
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/elie-omatuku-a0374610b/), [Medium](https://medium.com/@elieomatuku)
+You can also find me on [Portfolio](https://elieomatuku97.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/elie-omatuku-a0374610b/), [Medium](https://medium.com/@elieomatuku)
 
 🇫🇷
 
@@ -44,7 +44,7 @@ Composite pattern in Kotlin: Android example
 Using Jetpack Compose in an existing Android application
 Quand je ne suis pas devant un écran en train de coder, je regarde du Foot. ⚽️ Je suis supporteur du Real Madrid and Cristiano Ronaldo est le 🐐.
 
-Vous pouvez me retrouver sur [LinkedIn](https://www.linkedin.com/in/elie-omatuku-a0374610b/), [Medium](https://medium.com/@elieomatuku)
+Vous pouvez me retrouver sur [Portfolio](https://elieomatuku97.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/elie-omatuku-a0374610b/), [Medium](https://medium.com/@elieomatuku)
 
 <!--
 **ElieOmatuku97/ElieOmatuku97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
